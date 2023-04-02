@@ -9,5 +9,5 @@
 </p>
 
 ## Navigation
+  - [Textstat](https://github.com/textstat/textstat)
   - [Documentation](https://github.com/textstat/docs)
-  - [Textstat Core](https://github.com/textstat/textstat-core)
